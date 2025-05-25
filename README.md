@@ -1,5 +1,8 @@
 # GitBook To HTML
 
+Credits goes to https://github.com/ramykatour
+Added --check-title-duplicate parameter which checks the html-titles
+
 Convert your GitBook project to HTML easily.
 
 ## Description
